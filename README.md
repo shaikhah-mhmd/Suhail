@@ -1,7 +1,7 @@
 # Suhail 🔋
 An AI-powered dashboard that helps manage electricity and water consumption in skyscrapers .  
 
-
+**Live Demo:** https://suhail-8hq9.onrender.com
 ## what it does:
 - Display real-time consumption data.
 - Predicts future consumption using Machine Learning.
